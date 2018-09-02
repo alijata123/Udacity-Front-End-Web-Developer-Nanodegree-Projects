@@ -1,0 +1,141 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+#logo {
+    padding: 5px;
+}
+
+.name_id {
+    font-size: 60px;
+    text-align: right;
+    padding-right: 5px;
+    margin: auto;
+    color: #2d3c49;
+}
+
+.hr-line {
+    border: none;
+    height: 5px;
+    background-color: #788d9f;
+}
+
+#work-pic {
+    margin-left: auto;
+}
+
+.profession {
+    text-align: right;
+    padding-right: 5px;
+    padding-top: 10px;
+    margin: auto;
+    font-size: 120%;
+    color: dimgrey;
+    font-weight: 800;
+}
+
+.feature-works {
+    color: #2d3c49;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+h3 {
+    font-size: 35px;
+    color: #868679;
+    text-align: center;
+    font-weight: 400;
+}
+
+.col-sm-4 {
+    max-width: 33%;
+}
+
+a:link {
+    color: white;
+    padding-top: 7px;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #daf8fd;
+    border-color: #17a2b8;
+}
+
+.btn-info:hover {
+    background-color: white;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+/* all media queries,
+are listed below*/
+
+@media screen and (max-width: 400px) {
+    .name_id {
+        font-size: 40px;
+        text-align: right;
+        padding-right: 5px;
+        margin: auto;
+        color: #2d3c49;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .name_id {
+        font-size: 30px;
+        text-align: right;
+        padding-right: 5px;
+        margin: auto;
+        color: dimgrey;
+    }
+    #logo {
+        width: 40px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .apps-text {
+        font-size: 20px;
+    }
+    #logo {
+        width: 75px;
+        height: 75px;
+    }
+}
+
+
+}
+@media screen and (max-width: 390px) {
+    .name_id {
+        text-align: center;
+    }
+    
+    .profession {
+        text-align: center;
+    }
+    
+    .apps-text {
+        font-size: 15px;
+    }
+    
+    a:link {
+        font-size: 10px;
+    }
+    
+    #logo {
+        width: 50px;
+        height: 50px;
+    }
+}
+@media screen and (min-width: 993px) {
+    #work-pic {
+        display: flex;
+        width: 120%;
+    }
+}
