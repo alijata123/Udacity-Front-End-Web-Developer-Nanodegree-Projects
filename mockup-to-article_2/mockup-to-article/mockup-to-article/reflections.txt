@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* I learned that writing a good code, is important for those who reads it, so its look nice and    clean, and for the coder who writes it, so he can focus easier on working with the files.
+  It also helped me to rembember again some formating styles, that i had forget.
+
+* Everything was easy first, but after this review i think next time, i should be more careful, so i don't have to submit the project more than once. :D
+
+* Nothing was difficult.
+
+* I have just use my past experience on these problems solving.
+
